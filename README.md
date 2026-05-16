@@ -138,8 +138,7 @@ I'm a **builder at the intersection of Artificial Intelligence and Evolutionary 
 
 <div align="center">
 
-<!-- Snake animation (requires GitHub Actions — see note below) -->
-<!-- Uncomment after setting up the workflow:
+
 <img src="https://github.com/oliver4441/oliver4441/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 -->
 
