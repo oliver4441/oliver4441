@@ -140,7 +140,7 @@ I'm a **builder at the intersection of Artificial Intelligence and Evolutionary 
 
 
 <img src="https://github.com/oliver4441/oliver4441/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
--->
+
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=oliver4441&color=00FFAA&style=for-the-badge&label=PROFILE+VIEWS)
 
